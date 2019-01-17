@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\Day10M\Custom Delegate\bin\Debug\Custom Delegate.exe.config
+C:\Users\acer\source\repos\Day10M\Custom Delegate\bin\Debug\Custom Delegate.exe
+C:\Users\acer\source\repos\Day10M\Custom Delegate\bin\Debug\Custom Delegate.pdb
+C:\Users\acer\source\repos\Day10M\Custom Delegate\obj\Debug\Custom Delegate.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Day10M\Custom Delegate\obj\Debug\Custom Delegate.exe
+C:\Users\acer\source\repos\Day10M\Custom Delegate\obj\Debug\Custom Delegate.pdb
+C:\Users\acer\source\repos\Day10M\Custom Delegate\obj\Debug\Custom Delegate.csprojAssemblyReference.cache

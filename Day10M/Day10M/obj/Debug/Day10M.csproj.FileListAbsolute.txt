@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\Day10M\Day10M\bin\Debug\Day10M.exe.config
+C:\Users\acer\source\repos\Day10M\Day10M\bin\Debug\Day10M.exe
+C:\Users\acer\source\repos\Day10M\Day10M\bin\Debug\Day10M.pdb
+C:\Users\acer\source\repos\Day10M\Day10M\obj\Debug\Day10M.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Day10M\Day10M\obj\Debug\Day10M.exe
+C:\Users\acer\source\repos\Day10M\Day10M\obj\Debug\Day10M.pdb
+C:\Users\acer\source\repos\Day10M\Day10M\obj\Debug\Day10M.csprojAssemblyReference.cache
